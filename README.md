@@ -1,8 +1,8 @@
-##### 📊 Análisis de Ventas y Rentabilidad por Tipo de Bicicleta
+## 📊 Análisis de Ventas y Rentabilidad por Tipo de Bicicleta
 
 ##### 
 
-###### 🗂 Descripción
+#### 🗂 Descripción
 
 Este proyecto analiza datos de ventas globales de bicicletas con el objetivo de identificar patrones de compra, rentabilidad por producto y comportamiento estacional de la demanda.  
 
@@ -10,7 +10,7 @@ El análisis incluye limpieza, transformación, creación de medidas, visualizac
 
 
 
-###### 📂 Dataset
+#### 📂 Dataset
 
 \- **Fuente**: Dataset de ejemplo para práctica en Power BI.
 
@@ -30,7 +30,7 @@ El análisis incluye limpieza, transformación, creación de medidas, visualizac
 
 
 
-###### 🔧 Herramientas utilizadas
+#### 🔧 Herramientas utilizadas
 
 \- **Power BI**: Creación de medidas DAX, visualizaciones y dashboard.
 
@@ -42,7 +42,7 @@ El análisis incluye limpieza, transformación, creación de medidas, visualizac
 
 
 
-###### 🛠 Proceso de trabajo
+#### 🛠 Proceso de trabajo
 
 1\. **Carga de datos** en Power BI.
 
@@ -64,7 +64,7 @@ El análisis incluye limpieza, transformación, creación de medidas, visualizac
 
 
 
-###### 📈 Resultados del análisis
+#### 📈 Resultados del análisis
 
 
 
@@ -80,7 +80,7 @@ El análisis incluye limpieza, transformación, creación de medidas, visualizac
 
 
 
-###### 💡 Insights sobre rentabilidad por tipo de bicicleta
+#### 💡 Insights sobre rentabilidad por tipo de bicicleta
 
 \- **Bicicleta de paseo**: Alto volumen de ventas, pero bajo profit por unidad.
 
@@ -90,7 +90,7 @@ El análisis incluye limpieza, transformación, creación de medidas, visualizac
 
 
 
-###### 📝 Conclusiones
+#### 📝 Conclusiones
 
 El análisis sugiere:
 
@@ -102,9 +102,7 @@ El análisis sugiere:
 
 
 
-\## 📷 Capturas del proyecto
-
-## 📸 Capturas del proyecto
+#### 📸 Capturas del proyecto
 
 ![Gráfico 1](capturas/gráfico1.png)
 
@@ -122,6 +120,7 @@ El análisis sugiere:
 ---
 
 ✍️ *Autora: Gisela Ramirez*
+
 
 
 
