@@ -104,17 +104,25 @@ El análisis sugiere:
 
 \## 📷 Capturas del proyecto
 
-!\[Dashboard de ventas](capturas/gráfico1.png)
-!\[Dashboard de ventas](capturas/gráfico2.png)
-!\[Dashboard de ventas](capturas/gráfico3.png)
-!\[Dashboard de ventas](capturas/gráfico4.png)
-!\[Dashboard de ventas](capturas/gráfico5.png)
-!\[Dashboard de ventas](capturas/gráfico6.png)
+## 📸 Capturas del proyecto
+
+![Gráfico 1](capturas/gráfico1.png)
+
+![Gráfico 2](capturas/gráfico2.png)
+
+![Gráfico 3](capturas/gráfico3.png)
+
+![Gráfico 4](capturas/gráfico4.png)
+
+![Gráfico 5](capturas/gráfico5.png)
+
+![Gráfico 6](capturas/gráfico6.png)
 
 
 ---
 
 ✍️ *Autora: Gisela Ramirez*
+
 
 
 
