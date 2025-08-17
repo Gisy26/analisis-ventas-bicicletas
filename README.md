@@ -104,12 +104,6 @@ El análisis sugiere:
 
 \## 📷 Capturas del proyecto
 
-\*(Agregar imágenes en la carpeta `capturas/` y enlazarlas aquí)\*
-
-
-
-Ejemplo:
-
 !\[Dashboard de ventas](capturas/dashboard.png)
 
 
@@ -117,4 +111,5 @@ Ejemplo:
 ---
 
 ✍️ *Autora: Gisela Ramirez*
+
 
