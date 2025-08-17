@@ -104,12 +104,17 @@ El análisis sugiere:
 
 \## 📷 Capturas del proyecto
 
-!\[Dashboard de ventas](capturas/dashboard.png)
-
+!\[Dashboard de ventas](capturas/gráfico1.png)
+!\[Dashboard de ventas](capturas/gráfico2.png)
+!\[Dashboard de ventas](capturas/gráfico3.png)
+!\[Dashboard de ventas](capturas/gráfico4.png)
+!\[Dashboard de ventas](capturas/gráfico5.png)
+!\[Dashboard de ventas](capturas/gráfico6.png)
 
 
 ---
 
 ✍️ *Autora: Gisela Ramirez*
+
 
 
